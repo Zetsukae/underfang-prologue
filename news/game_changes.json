@@ -3,11 +3,11 @@
   "warning": true,
   "translations": {
     "en": {
-      "title": "GAME UPDATE",
+      "title": "GAME UPDATE v1.5.0",
       "body": "This update brings more natural character and camera animations, a smoother intro-to-gameplay transition, and fixes for the spider's chase behavior and interaction prompts. I also made several menu and news improvements. Thank you for playing and sharing your feedback!"
     },
     "fr": {
-      "title": "MISE À JOUR DU JEU",
+      "title": "MISE À JOUR DU JEU v1.5.0",
       "body": "Cette mise à jour apporte des animations de personnages et de caméra plus naturelles, une transition plus fluide entre l'introduction et le jeu, ainsi que des corrections pour la poursuite de l'araignée et les indications d'interaction.J'ai également amélioré quelques éléments des menus et du système d'actualités. Merci de jouer et de nous faire part de vos retours !"
     }
   }
