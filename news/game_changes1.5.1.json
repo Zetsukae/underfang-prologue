@@ -1,0 +1,14 @@
+{
+  "date": "2026.11.20",
+  "warning": true,
+  "translations": {
+    "en": {
+      "title": "GAME UPDATE v1.5.1",
+      "body": "This update adds fade-based fall recovery in Certains Scenes, and a fairer spider chase. Music levels and automatic end routes have been adjusted, and the saved-data screen has been simplified. Thank you for playing and sharing your feedback!"
+    },
+    "fr": {
+      "title": "MISE À JOUR DU JEU v1.5.1",
+      "body": "Cette mise à jour ajoute une récupération avec fondu après une chute dans certaines scènes et une poursuite de l'araignée plus équilibrée. Le volume de certaines musiques et plusieurs fins automatiques ont également été ajustés, et l'écran de récupération des données a été simplifié. Merci de jouer et de nous faire part de vos retours !"
+    }
+  }
+}
